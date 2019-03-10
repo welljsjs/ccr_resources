@@ -11,7 +11,7 @@ Save
 Speichern
 
 Select all
-Wählen Sie Alle
+Alle auswählen
 
 Use precompiled header
 Verwenden Sie den vorkompilierten Header
@@ -20,7 +20,7 @@ Back
 Zurück
 
 Go to line
-Gehe zur Zeile
+Gehe zu Zeile
 
 Level of optimization
 Grad der Optimierung
@@ -29,7 +29,7 @@ Build LLVM Bitcode
 Erzeuge LLVM-Bit-Code
 
 Build LLVM Assembly
-Erstellen Sie eine LLVM-Assembly
+LLVM-Assembly erstellen
 
 Keyboard sound effect
 Tastenton
@@ -53,10 +53,10 @@ No
 Nein
 
 Use JIT execution
-Aktivieren Sie die JIT ausführung ( Experimental )
+Aktivieren Sie die JIT Ausführung ( Experimental )
 
 System headers
-System headers
+System Header
 
 Theme
 Thema
@@ -68,10 +68,10 @@ External storage
 Externer Speicher
 
 Buy Mobile C
-Buy Mobile C ( Löschen Sie Werbebanner )
+Kaufe Mobile C ( Werbebanner löschen )
 
 Edit
-Edieren
+Bearbeiten
 
 Enable code diagnostic
 Codediagnose aktivieren
@@ -83,7 +83,7 @@ Display line number
 Zeilennummer anzeigen
 
 What's new
-Neue Funktionen
+Was ist neu
 
 GENERAL
 ALLGEMEIN
@@ -113,10 +113,10 @@ TEXT OUTPUT
 TEXT OUTPUT
 
 Disable
-Inaktiv
+Deaktivieren
 
 Break Word
-Wörter umbrechen
+Wort umbrechen
 
 Keep Word
 Buchstaben umbrechen
@@ -125,16 +125,16 @@ Settings
 Einstellungen
 
 Restore Examples
-Beispiele aktualisieren
+Beispiele wiederherstellen
 
 Confirmation
 Bestätigung
 
 Existing example files will be overwritten.
-Vorhandene Dateien werden überschrieben.
+Vorhandene Beispiel-Dateien werden überschrieben.
 
 Proceed?
-Wollen Sie weitermachen?
+Fortfahren?
 
 Cancel
 Abbrechen
@@ -179,7 +179,7 @@ Stop
 Stoppen
 
 Run Again
-Exekution
+Ausführen
 
 Mobile C
 Mobile C
@@ -197,16 +197,16 @@ Graphics
 Grafik
 
 Compressed file name?
-Komprimierte Dateinamen?
+Komprimierter Dateiname?
 
 Compressed.zip
-KomprimierteDatei.zip
+Komprimiert.zip
 
 New file(folder) name?
-Neue Datei(Ordner) name?
+Neue Datei(Ordner)-Name?
 
 Delete selected files(folders)?
-Löschen Sie die ausgewählten Dateien/Ordner?
+Ausgewählten Dateien/Ordner löschen?
 
 Examples
 Beispiele
@@ -215,16 +215,16 @@ Example files are created successfully.
 Beispiel-Dateien werden erfolgreich erstellt.
 
 Exit app?
-Verlassen Sie die App.
+App verlassen?
 
 Use OS Keyboard
-Verwenden OS Tastatur
+OS Tastatur verwenden
 
 Use Mono-space font
 Monospace Schrift verwenden
 
 Search files(folders)
-Suche nach Dateien(Ordner).
+Suche Dateien(Ordner).
 
 Go
 Besuchen
@@ -242,10 +242,10 @@ Parent Folder
 Übergeordneter Ordner
 
 Copying resources...
-Kopieren Ressourcen...
+Kopiere Ressourcen...
 
 DEFAULT COMPILER
-DER STANDARD-COMPILER
+STANDARD-COMPILER
 
 CPP ( Built-in )
 CPP 1.2.10 ( Built-in )
@@ -272,4 +272,4 @@ Allow implicit function declaration
 Implizite Funktionsdeklaration erlauben
 
 Line number?
-Geben Sie die Zeilennummer ein
+Zeilennummer eingeben
